@@ -19,7 +19,8 @@
  - Visualizing data in Python to identify insights.
 
 Citation: “The Instacart Online Grocery Shopping Dataset 2017”, accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on date."
-Click [here](https://drive.google.com/drive/folders/1LXQGPnlueYXbzg0Ql8XQM-JANdoH2Cne?usp=sharing) to access the **original datasets**.
+
+**[Original Datasets](https://drive.google.com/drive/folders/1LXQGPnlueYXbzg0Ql8XQM-JANdoH2Cne?usp=sharing)**
 
 ## Python Skills
 * Exploring
