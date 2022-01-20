@@ -17,16 +17,15 @@
  - Grouping data.
  - Merging dataframes.
  - Visualizing data in Python to identify insights.
+* **[Original Datasets](https://drive.google.com/drive/folders/1LXQGPnlueYXbzg0Ql8XQM-JANdoH2Cne?usp=sharing)**
 
 Citation: “The Instacart Online Grocery Shopping Dataset 2017”, accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on date."
-
-**[Original Datasets](https://drive.google.com/drive/folders/1LXQGPnlueYXbzg0Ql8XQM-JANdoH2Cne?usp=sharing)**
 
 ## Python Skills
 * Exploring
 * Preparing
 * Visualizing
-* Click [here](https://drive.google.com/file/d/1nfFrlsGLkpVGfkTMFQSUUqVeByiLgfSR/view?usp=sharing) to access the **Python scripts (.ipynb)**.
+* **[Python scripts (.ipynb)](https://drive.google.com/file/d/1nfFrlsGLkpVGfkTMFQSUUqVeByiLgfSR/view?usp=sharing)**
 
 ## Challenges and Decisions
 
