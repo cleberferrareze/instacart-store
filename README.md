@@ -51,7 +51,7 @@ Citation: “The Instacart Online Grocery Shopping Dataset 2017”, accessed fro
 
 ## Recommendations
 * Offer profitable products to married customers between 30-49 years old with a salary range between 100000-150000. This segment of customers buy the most expensive products during the nights, from 0 and 5 am on Saturdays and Sundays. 
-![](https://drive.google.com/file/d/18QX93nBLc3tV7UZmlGbZO7ykCHgpy8fq/view?usp=sharing)
+![](https://lh6.googleusercontent.com/G6nH7nMsLILAoCBZgfR20VyR2odSyUynXcT_3qpAvos4RN8AsHyb7mV2H2LyARYIAH88jusOLfT19EWoU_um6p_5gXTFYsXIg1MLrCZuq5oJGqlf9MkLR58gTEkWB5822w=w1280)
 ![](https://drive.google.com/file/d/16KpFjEwVl9EIeyMqfzOc1xihvTXC9YPT/view?usp=sharing)
 ![](https://drive.google.com/file/d/1RDqalamNu8xEX7-PvzLoemBQUVNgeie-/view?usp=sharing)
 ![](https://drive.google.com/file/d/1Yo1mPcOBdA93sHjBRz3fXimNsFwdsy9R/view?usp=sharing)
