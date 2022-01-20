@@ -18,9 +18,8 @@
  - Merging dataframes.
  - Visualizing data in Python to identify insights.
 
-![](https://drive.google.com/file/d/1yv-oXYB_HgMhdal2g8cYtRBeU65J8s42/view?usp=sharing)
-
 Citation: “The Instacart Online Grocery Shopping Dataset 2017”, accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on date."
+Click [here](https://drive.google.com/drive/folders/1LXQGPnlueYXbzg0Ql8XQM-JANdoH2Cne?usp=sharing) to access the **original datasets**.
 
 ## Python Skills
 * Exploring
@@ -30,15 +29,15 @@ Citation: “The Instacart Online Grocery Shopping Dataset 2017”, accessed fro
 
 ## Challenges and Decisions
 
-### Grouping large datasets
+#### Grouping large datasets
 * The challenge was to combine columns with different formats from distributed data storage into the same dataset. 
 * To resolve that, I executed frequent data consistency checks before and after the data wrangling and grouping.
 
-### Grouping the right data for the right insights
+#### Grouping the right data for the right insights
 * The challenge was to produce effective insights from an amount of data and a variety of data visualisations. 
 * To resolve that, I focused on the key sales and marketing questions that could be more relevant for the Instacart initial objective.
 
-### Performance issue for Visualisations
+#### Performance issue for Visualisations
 * The challenge was to generate insights from data visualisations using Python charts, specifically “Line charts”.
 * To resolve that, I defined a subset of data and split the data frame to reduce the size of the dataset. Jupiter Notebook slowed down when working with the entire dataset which had approximately that 7GB of size and more than 30 million records.
 
