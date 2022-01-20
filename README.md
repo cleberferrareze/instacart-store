@@ -11,13 +11,13 @@
 ## Dataset and Population Flow
 * Started the project by exploring and cleaning the original data, then organised the datasets before merging everything to the final dataset. 
 * These key steps of the process were:
- - Cleaning “products, orders, orders_products_combined and customers” data.
- - Wrangling “orders, customers, ords_prods_cust_PII” data.
- - Deriving new variables from “orders_products_merged, ords_prods_cust_PII, ords_prods_non_low_act_cust”.
- - Grouping data.
- - Merging dataframes.
- - Visualizing data in Python to identify insights.
-* **[Original Datasets](https://drive.google.com/drive/folders/1LXQGPnlueYXbzg0Ql8XQM-JANdoH2Cne?usp=sharing)**
+  * Cleaning “products, orders, orders_products_combined and customers” data.
+  * Wrangling “orders, customers, ords_prods_cust_PII” data.
+  * Deriving new variables from “orders_products_merged, ords_prods_cust_PII, ords_prods_non_low_act_cust”.
+  * Grouping data.
+  * Merging dataframes.
+  * Visualizing data in Python to identify insights.
+  * **[Original Datasets](https://drive.google.com/drive/folders/1LXQGPnlueYXbzg0Ql8XQM-JANdoH2Cne?usp=sharing)**
 
 Citation: “The Instacart Online Grocery Shopping Dataset 2017”, accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on date."
 
